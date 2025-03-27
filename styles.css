@@ -1,0 +1,33 @@
+body{
+    background: #ffffff;
+}
+.container-fluid{
+    background: #1E201E;
+    margin: 10px;
+    padding: 10px;
+}
+.navbar-brand{
+    color: #D84040;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    line-height: 2;
+    text-align: justify;
+}
+.navbar-brand:hover{
+    color: #ffffff;
+}
+.nav-link{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+}
+.nav-link:hover{
+    color: #D84040;
+}
+.dropdown-menu{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+}
