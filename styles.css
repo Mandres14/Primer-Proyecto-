@@ -13,9 +13,9 @@ body{
     line-height: 2;
     text-align: justify;
 }
-.navbar-brand:hover{
+/*.navbar-brand:hover{
     color: #ffffff;
-}
+}*/
 .nav-link{
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
