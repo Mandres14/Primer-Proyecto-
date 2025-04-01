@@ -5,6 +5,7 @@ body{
     background: #1E201E;
     margin: 10px;
     padding: 10px;
+    border: auto;
 }
 .navbar-brand{
     color: #D84040;
@@ -13,9 +14,6 @@ body{
     line-height: 2;
     text-align: justify;
 }
-/*.navbar-brand:hover{
-    color: #ffffff;
-}*/
 .nav-link{
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
@@ -30,4 +28,36 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     text-align: justify;
+
+}
+.container-clean{
+  background: #000000;
+  background: url(./imagenes/Drone\ JTC30.jpg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0px;
+  padding: 280px;
+  
+}
+.container-text{
+background-color: #48A6A7 ;
+margin: 0px 300px;
+padding: 10px;
+
+}
+h3{
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align:center;
+}
+.paragraph{
+    color: #1E201E;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1;
+    text-align: justify;
+
 }
